@@ -1,55 +1,89 @@
-# SHELL Company Training – SCET College 2025 (Data Science Focused)
+# SHELL Company Training – SCET MCA 1st Year (2025) – Data Science Focus
 
-> 📊 This repository documents the 7-day Data Science-focused industrial training by SHELL Company, conducted at SCET College for B.C.A. students.
+> 📚 A documentation repository for the 15-day Data Science-focused industrial training conducted by SHELL Company for MCA First Year students of SCET College.
+
+---
+
+## 📍 Overview:
+
+This industrial training program was designed to expose students to **real-world applications of Data Science** in the oil and energy sector, delivered in collaboration with **SHELL Company** and **SCET College, Surat**.
 
 ---
 
 ## 📅 Duration:
-**7 Days** – Industrial Training in **Data Science Applications in the Energy Sector**
+**15 Days**  
+Organized in 2025 for **MCA Semester 2 (First Year)** students
 
 ---
 
-## 🏫 Organized by:
+## 🏫 Hosted By:
 **Sarvajanik College of Engineering and Technology (SCET)**  
-Department of Computer Applications  
-In collaboration with **SHELL Company**
+Department of Computer Applications (MCA)  
+Affiliated with Veer Narmad South Gujarat University (VNSGU)
 
 ---
 
-## 🧠 Focus Areas:
+## 🧠 Key Learning Areas:
 
-### 📌 Key Topics Covered:
-- Introduction to SHELL and Global Energy Systems
-- Industrial Safety Rules and Data Monitoring
-- Data Collection in the Oil & Gas Sector
-- Real-Time Sensor Data Processing
-- Predictive Maintenance Using Machine Learning
-- Introduction to Data Visualization Tools (Power BI, Matplotlib)
-- IoT Integration with Cloud for Remote Analytics
-- Fire Safety Data Logging & Analysis
-
----
-
-## 🧑‍💻 Tools & Technologies:
-- **Python** (Pandas, NumPy, Scikit-learn)
-- **Power BI** and **Matplotlib** for Visualization
-- **IoT Sensors** for Real-Time Data Collection
-- **Cloud Platforms** for Scalable Storage & Processing
+### 📌 Industrial & Technical Topics:
+- Overview of the Energy Sector & SHELL's Global Presence
+- Data Science in Industrial Safety & Monitoring
+- Predictive Maintenance using Machine Learning
+- Basics of IoT for Real-Time Data Collection
+- Exploratory Data Analysis (EDA)
+- Data Visualization with Power BI & Matplotlib
+- Introduction to Cloud Platforms for Analytics
+- Introduction to SCADA Systems and Sensor Data
 
 ---
 
-## 🎓 Outcomes:
-- Understood how Data Science is applied in SHELL’s daily operations
-- Hands-on knowledge of data processing pipelines
-- Learned predictive analytics for industrial safety & maintenance
-- Collaborated on mini-projects related to IoT & cloud monitoring
+## 🧰 Tools & Technologies Used:
+- **Python**, **Pandas**, **NumPy**, **Matplotlib**
+- **Power BI**, **Excel Dashboards**
+- **Jupyter Notebooks**
+- **IoT Devices** (Simulated)
+- **Cloud Concepts** (AWS/GCP Overview)
 
 ---
 
-## 👥 Participants:
-Final Year B.C.A Students – Batch of February 2021  
-Veer Narmad South Gujarat University (VNSGU)
+## 🎯 Outcomes:
+- Understood how SHELL applies data science in operations
+- Hands-on practice with real-world datasets
+- Gained knowledge on analytics, prediction, and visualization
+- Strengthened understanding of industrial workflows
+
+---
+
+## 👨‍🎓 Target Audience:
+MCA First Year Students – SCET College (Batch 2024–2026)
 
 ---
 
 ## 🗂 Repository Structure:
+/datasets/ → Sample data used in training
+/notebooks/ → Python & Jupyter-based exercises
+/presentations/ → PPTs by industry experts
+/reports/ → Feedback, summaries & group submissions
+/images/ → Event photos and certificates
+
+yaml
+Copy
+Edit
+
+---
+
+## 🏅 Certification:
+All students received a certificate of completion from **SHELL Company** for successfully attending the training.
+
+---
+
+## 🙏 Acknowledgements:
+- **SHELL India** – for conducting the sessions
+- **SCET MCA Faculty Team** – for organizing and guiding
+- **Industry Mentors** – for sharing practical knowledge
+
+---
+
+## ⚠️ Disclaimer:
+This repository is intended only for academic and documentation purposes.  
+It is not officially affiliated with or endorsed by SHELL Company.
