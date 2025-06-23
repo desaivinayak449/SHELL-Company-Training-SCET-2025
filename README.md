@@ -1,6 +1,6 @@
 # SHELL Company Training – SCET MCA 1st Year (2025) – Data Science Focus
 
-> 📚 A documentation repository for the 15-day Data Science-focused industrial training conducted by SHELL Company for MCA First Year students of SCET College.
+> 📚 A documentation repository for the 7-day Data Science-focused industrial training conducted by SHELL Company for MCA First Year students of SCET College.
 
 ---
 
