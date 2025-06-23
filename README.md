@@ -1,54 +1,55 @@
-# SHELL Company Training Program – SCET College 2025
+# SHELL Company Training – SCET College 2025 (Data Science Focused)
 
-Welcome to the official repository documenting our learning and experience during the SHELL Company Training conducted at **Sarvajanik College of Engineering and Technology (SCET)**.
-
-## 📅 Duration:
-**15 Days Industrial Training** – Organized by SCET in collaboration with SHELL Company
-
-## 🏫 Institution:
-**Sarvajanik College of Engineering and Technology (SCET)**  
-Department of Computer Engineering
-
-## 🧠 What We Learned:
-
-### 🔧 Topics Covered:
-- Introduction to Industrial Safety & Procedures
-- Basics of Oil & Gas Industry
-- Overview of SHELL’s Global Operations
-- IT Infrastructure in Oil and Energy Sector
-- Security Protocols & Automation Practices
-- Real-Time Monitoring Systems
-- Case Study Sessions & Industrial Project Demos
-
-### 📂 Technical Exposure:
-- SCADA Systems
-- Remote Sensing
-- Data Analysis Techniques
-- Automation using PLC & IoT
-
-## 📸 Highlights:
-- Industrial Visit to SHELL India
-- Live Demonstration of Safety Drills
-- Interaction with Industry Professionals
-- Group Activities and Feedback Sessions
-
-## 👨‍🎓 Trainees:
-This training was attended by students of **Computer Engineering – Batch 2025** from SCET.
-
-## 📃 Certificate:
-All participants received an official certificate of training from SHELL.
-
-## 🛠️ Repository Contents:
-- `/notes/` – Summary notes from sessions
-- `/presentations/` – Slides used during training
-- `/projects/` – Any demo code or group assignments (if applicable)
-- `/images/` – Photos from the training and industrial visit
-
-## 🔖 License:
-This repository is created for educational purposes and is not affiliated officially with SHELL. Content belongs to the respective creators.
+> 📊 This repository documents the 7-day Data Science-focused industrial training by SHELL Company, conducted at SCET College for B.C.A. students.
 
 ---
 
-### 🙌 Special Thanks:
-To **SHELL Company** and **SCET Faculty Coordinators** for organizing such a valuable training experience.
+## 📅 Duration:
+**7 Days** – Industrial Training in **Data Science Applications in the Energy Sector**
 
+---
+
+## 🏫 Organized by:
+**Sarvajanik College of Engineering and Technology (SCET)**  
+Department of Computer Applications  
+In collaboration with **SHELL Company**
+
+---
+
+## 🧠 Focus Areas:
+
+### 📌 Key Topics Covered:
+- Introduction to SHELL and Global Energy Systems
+- Industrial Safety Rules and Data Monitoring
+- Data Collection in the Oil & Gas Sector
+- Real-Time Sensor Data Processing
+- Predictive Maintenance Using Machine Learning
+- Introduction to Data Visualization Tools (Power BI, Matplotlib)
+- IoT Integration with Cloud for Remote Analytics
+- Fire Safety Data Logging & Analysis
+
+---
+
+## 🧑‍💻 Tools & Technologies:
+- **Python** (Pandas, NumPy, Scikit-learn)
+- **Power BI** and **Matplotlib** for Visualization
+- **IoT Sensors** for Real-Time Data Collection
+- **Cloud Platforms** for Scalable Storage & Processing
+
+---
+
+## 🎓 Outcomes:
+- Understood how Data Science is applied in SHELL’s daily operations
+- Hands-on knowledge of data processing pipelines
+- Learned predictive analytics for industrial safety & maintenance
+- Collaborated on mini-projects related to IoT & cloud monitoring
+
+---
+
+## 👥 Participants:
+Final Year B.C.A Students – Batch of February 2021  
+Veer Narmad South Gujarat University (VNSGU)
+
+---
+
+## 🗂 Repository Structure:
