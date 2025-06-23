@@ -11,7 +11,7 @@ This industrial training program was designed to expose students to **real-world
 ---
 
 ## 📅 Duration:
-**15 Days**  
+**7 Days**  
 Organized in 2025 for **MCA Semester 2 (First Year)** students
 
 ---
@@ -19,7 +19,7 @@ Organized in 2025 for **MCA Semester 2 (First Year)** students
 ## 🏫 Hosted By:
 **Sarvajanik College of Engineering and Technology (SCET)**  
 Department of Computer Applications (MCA)  
-Affiliated with Veer Narmad South Gujarat University (VNSGU)
+
 
 ---
 
@@ -40,9 +40,6 @@ Affiliated with Veer Narmad South Gujarat University (VNSGU)
 ## 🧰 Tools & Technologies Used:
 - **Python**, **Pandas**, **NumPy**, **Matplotlib**
 - **Power BI**, **Excel Dashboards**
-- **Jupyter Notebooks**
-- **IoT Devices** (Simulated)
-- **Cloud Concepts** (AWS/GCP Overview)
 
 ---
 
